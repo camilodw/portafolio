@@ -1,0 +1,24 @@
+.footer {
+    display: block;
+    text-align: center;
+    width: 100%;
+    height:auto;
+    background: var(--colorBlack);
+}
+
+.footer a {
+    text-decoration: none;
+}
+
+.footer, .footer a {
+    color: var(--colorWhite);
+}
+/*
+@media (max-width: 1200px) {}
+
+@media (max-width: 992px) {}
+
+@media (max-width: 768px) {}
+
+@media (max-width: 576px) {}
+*/

@@ -1,0 +1,28 @@
+.skills {
+    text-align: center;
+    margin: 0 2%;
+}
+
+.skills h5 {
+    font-size: var(--text-2xl);
+}
+
+.skills img, .skills h5 {
+    margin: 2%;
+}
+/*
+@media (max-width: 1200px) {}
+
+@media (max-width: 992px) {}
+*/
+@media (max-width: 768px) {
+    .skills h5 {
+        font-size: var(--text-title);
+    }
+    .skills img {
+        height: 70px;
+    }
+}
+/*
+@media (max-width: 576px) {}
+*/ 
