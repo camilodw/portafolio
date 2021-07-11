@@ -2,19 +2,12 @@
     text-align: center;
     margin: 0 2%;
 }
-
 .knowledge h5 {
     font-size: var(--text-2xl);
 }
-
 .knowledge img, .knowledge h5 {
     margin: 2%;
 }
-/*
-@media (max-width: 1200px) {}
-
-@media (max-width: 992px) {}
-*/
 @media (max-width: 768px) {
     .knowledge h5 {
         font-size: var(--text-title);
@@ -23,6 +16,3 @@
         height: 70px;
     }
 }
-/*
-@media (max-width: 576px) {}
-*/ 
